@@ -1,12 +1,12 @@
 # BlockPi
 
-一个专门为[树莓派](https://www.raspberry.org)设计的图形化编程平台，基于[Google Blockly](https://developers.google.com/blockly/)构建，适用于树莓派爱好者或者少儿编程学习。
+A graphic platform for developing  programming on [raspberry pi](https://www.raspberry.org), build with [Google Blockly](https://developers.google.com/blockly/), it is suitable for child or someone, who interested in raspberry development.
 
 A visual programming editor app for [Raspberry Pi](https://www.raspberry.org), built on [Google Blockly](https://developers.google.com/blockly/), made for RPi users or kids to learn coding.
 
-![](https://github.com/alienzhangyw/BlockPi/wiki/images/README.png)
+![](https://github.com/kidsman9049/BlockPi/wiki/images/README.png)
 
-## 特点/Features
+##Featurs
 
 - 完整的Blockly移植到树莓派上，完全免费使用。Full Blockly features on RPi, free to use.
 
@@ -159,7 +159,3 @@ yarn dist:linux
 4. Q：有使用说明或者教程吗？Any tutorials?
    
    A：在项目[Wiki](https://github.com/alienzhangyw/BlockPi/wiki)页面有持续更新一些教程和案例，也可以关注我的知乎专栏[BlockPi树莓派图形化编程](https://zhuanlan.zhihu.com/BlockPi)。I keep updating some tutorials on the [Wiki](https://github.com/alienzhangyw/BlockPi/wiki) page.
-
-## 另外
-
-有工作职位推荐或者商务合作请私信或者发送邮件至<alienzhangyw@live.cn>。
