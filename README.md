@@ -1,6 +1,6 @@
 # BlockPi
 
-A graphic platform for developing  programming on [raspberry pi](https://www.raspberry.org), build with [Google Blockly](https://developers.google.com/blockly/), it is suitable for child or someone, who interested in raspberry development.
+A graphic platform for developing  programming on [raspberry pi](https://www.raspberry.org), build with [Google Blockly](https://developers.google.com/blockly/), is suitable for a child or someone, who interested in raspberry development.
 
 A visual programming editor app for [Raspberry Pi](https://www.raspberry.org), built on [Google Blockly](https://developers.google.com/blockly/), made for RPi users or kids to learn coding.
 

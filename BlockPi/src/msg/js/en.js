@@ -438,7 +438,7 @@ Blockly.Msg["GPIOIN_HUE"] = "180";
 Blockly.Msg["GPIOOUT_HUE"] = "0";
 Blockly.Msg["SENSEHAT_HUE"] = "40";
 Blockly.Msg["CAMERA_HUE"] = "135";
-Blockly.Msg["COMMM_HUE"] = "40";
+Blockly.Msg["ACTION_HUE"] = "90";
 
 Blockly.Msg["COLOUR_CONVERT_TITLE"] = "convert colour %1 to RGB array"
 Blockly.Msg["COLOUR_CONVERT_TOOLTIP"] = "Converts the colour to an array of RGB values(0-255)."

@@ -37,7 +37,7 @@ var child = null;
 Code.LANGUAGE_NAME = {
   'en': 'English',
   'zh-hans': '简体中文',
-  'zh-hant': '正體中文'
+  'zh-hant': '繁體中文'
 };
 
 

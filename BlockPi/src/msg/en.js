@@ -30,7 +30,7 @@ var MSG = {
   catTube: "Digital Tube",
   catPicamera: "Picamera",
   catPicameraPro: "Professional Mode",
-  catCOMMM: "Commm",
+  catAction: "Action",
   listVariable: "list",
   textVariable: "text",
   deviceVariable: "device",
